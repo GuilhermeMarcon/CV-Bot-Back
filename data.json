@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Master's Degree project: ConSentiment",
+    "description": "A consensus-based sentiment analysis system leveraging ensemble ABSA models for multilingual and multidomain scenarios, outperforming state-of-the-art models like BERT and GPT-based approaches."
+  },
+  {
+    "title": "Master's Degree in Artificial Intelligence",
+    "description": "Completed a master's degree in Artificial Intelligence from the University of São Paulo, focusing on machine learning and natural language processing."
+  },
+  {
+    "title": "Bachelor's Degree in Computer Science",
+    "description": "Earned a bachelor's degree in Computer Science from the University of São Paulo with a strong academic record."
+  },
+  {
+    "title": "NLP Research",
+    "description": "Conducted research in natural language processing, including sentiment analysis and generative AI technologies."
+  },
+  {
+    "title": "Work Experience: Birdie Internship",
+    "description": "Worked as an NLP intern at Birdie, developing sentiment analysis models, improving classification accuracy with transformer models, and integrating solutions into product offerings."
+  },
+  {
+    "title": "AI and Machine Learning Skills",
+    "description": "Proficient in Python, TensorFlow, Keras, PyTorch, and machine learning techniques for diverse applications."
+  },
+  {
+    "title": "Generative AI Expertise",
+    "description": "Experience with generative AI frameworks and tools, including Langchain, prompt engineering, and Retrieval-Augmented Generation (RAG)."
+  },
+  {
+    "title": "MLOps and Agile Practices",
+    "description": "Introductory experience with MLOps, CI/CD pipelines, and agile methodologies from initiation projects."
+  },
+  {
+    "title": "Communication and Collaboration",
+    "description": "Strong written and verbal English skills, with proven experience in effective communication and teamwork."
+  },
+  {
+    "title": "Problem-Solving and Adaptability",
+    "description": "Skilled in resolving complex challenges and quickly adapting to new technologies and environments."
+  },
+  {
+    "title": "AI-Driven Solutions",
+    "description": "Demonstrated expertise in designing and implementing AI-driven solutions for real-world applications."
+  },
+  {
+    "title": "Data Analysis Skills",
+    "description": "Proficient in data analysis using tools like Pandas, NumPy, scikit-learn, and Matplotlib."
+  },
+  {
+    "title": "Programming Languages",
+    "description": "Experienced in Python, with additional familiarity in C, C#, and JavaScript."
+  },
+  {
+    "title": "Projects",
+    "description": "Worked on advanced AI projects, including bacterial culture classification using deep residual networks and applying machine learning to transitional metal dichalcogenides."
+  },
+  {
+    "title": "Website for Recruiters",
+    "description": "Developed this chatbot-based website hosted on GitHub Pages, allowing recruiters to interact with detailed information about my skills and projects."
+  }
+]
