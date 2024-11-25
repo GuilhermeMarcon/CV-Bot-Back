@@ -10,6 +10,7 @@ with open("data.json", "r") as f:
     data = json.load(f)
 
 for item in data:
+    print(item['title'])
     item['embedding'] = get_embedding(item['description'])
 
 with open("embedded_data.json", "w") as f:

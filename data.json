@@ -32,31 +32,35 @@
     "description": "Introductory experience with MLOps, CI/CD pipelines, and agile methodologies from initiation projects."
   },
   {
-    "title": "Communication and Collaboration",
+    "title": "Skills: Communication and Collaboration",
     "description": "Strong written and verbal English skills, with proven experience in effective communication and teamwork."
   },
   {
-    "title": "Problem-Solving and Adaptability",
+    "title": "Skills: Problem-Solving and Adaptability",
     "description": "Skilled in resolving complex challenges and quickly adapting to new technologies and environments."
   },
   {
-    "title": "AI-Driven Solutions",
+    "title": "Skills: AI-Driven Solutions",
     "description": "Demonstrated expertise in designing and implementing AI-driven solutions for real-world applications."
   },
   {
-    "title": "Data Analysis Skills",
+    "title": "Skills: Data Analysis Skills",
     "description": "Proficient in data analysis using tools like Pandas, NumPy, scikit-learn, and Matplotlib."
   },
   {
-    "title": "Programming Languages",
+    "title": "Skills: Programming Languages",
     "description": "Experienced in Python, with additional familiarity in C, C#, and JavaScript."
   },
   {
-    "title": "Projects",
+    "title": "Projects: Scientific Initiation",
     "description": "Worked on advanced AI projects, including bacterial culture classification using deep residual networks and applying machine learning to transitional metal dichalcogenides."
   },
   {
-    "title": "Website for Recruiters",
+    "title": "Project: Website for Recruiters",
     "description": "Developed this chatbot-based website hosted on GitHub Pages, allowing recruiters to interact with detailed information about my skills and projects."
+  },
+  {
+    "title": "Personal Information",
+    "description": "Lives in São Carlos (Brazil), originally from Araçatuba. Loves games and stories."
   }
 ]
