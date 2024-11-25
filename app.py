@@ -27,7 +27,7 @@ app = FastAPI()
 # Allow CORS for your front-end (you can be more specific with origins if needed)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # React app's address
+    allow_origins=["https://guilhermemarcon.github.io"],  # React app's address
     allow_credentials=True,
     allow_methods=["*"],  # Allows all HTTP methods (GET, POST, etc.)
     allow_headers=["*"],  # Allows all headers
